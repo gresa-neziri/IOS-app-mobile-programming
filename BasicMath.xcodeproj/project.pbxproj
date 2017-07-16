@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		E459EC6E1F191DA7009833F9 /* photomath.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E459EC6D1F191DA7009833F9 /* photomath.jpg */; };
 		E459EC701F1923F9009833F9 /* sum.gif in Resources */ = {isa = PBXBuildFile; fileRef = E459EC6F1F1923F9009833F9 /* sum.gif */; };
-		E459EC721F1925B2009833F9 /* minus-sign_318-59392.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E459EC711F1925B2009833F9 /* minus-sign_318-59392.jpg */; };
+		E459EC721F1925B2009833F9 /* rrethi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E459EC711F1925B2009833F9 /* rrethi.jpg */; };
 		E459EC751F192707009833F9 /* 3333333333.m in Sources */ = {isa = PBXBuildFile; fileRef = E459EC741F192707009833F9 /* 3333333333.m */; };
 		E459EC771F192EBC009833F9 /* rrethi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E459EC761F192EBC009833F9 /* rrethi.jpg */; };
 		E459EC791F192EF9009833F9 /* katrori.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E459EC781F192EF9009833F9 /* katrori.jpg */; };
@@ -27,16 +27,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E459EC6D1F191DA7009833F9 /* photomath.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = photomath.jpg; path = ../../photomath.jpg; sourceTree = "<group>"; };
-		E459EC6F1F1923F9009833F9 /* sum.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = sum.gif; path = ../../sum.gif; sourceTree = "<group>"; };
-		E459EC711F1925B2009833F9 /* minus-sign_318-59392.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "minus-sign_318-59392.jpg"; path = "../../minus-sign_318-59392.jpg"; sourceTree = "<group>"; };
+		E459EC6D1F191DA7009833F9 /* photomath.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = photomath.jpg; path = images/photomath.jpg; sourceTree = "<group>"; };
+		E459EC6F1F1923F9009833F9 /* sum.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = sum.gif; path = images/sum.gif; sourceTree = "<group>"; };
+		E459EC711F1925B2009833F9 /* rrethi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rrethi.jpg; path = images/rrethi.jpg; sourceTree = "<group>"; };
 		E459EC731F192707009833F9 /* Zbritja_ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Zbritja_ViewController.h; sourceTree = "<group>"; };
 		E459EC741F192707009833F9 /* 3333333333.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = 3333333333.m; sourceTree = "<group>"; };
-		E459EC761F192EBC009833F9 /* rrethi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rrethi.jpg; path = ../../rrethi.jpg; sourceTree = "<group>"; };
-		E459EC781F192EF9009833F9 /* katrori.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = katrori.jpg; path = ../../katrori.jpg; sourceTree = "<group>"; };
-		E459EC7A1F192F3E009833F9 /* drejtkendeshi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = drejtkendeshi.jpg; path = ../../drejtkendeshi.jpg; sourceTree = "<group>"; };
-		E459EC7C1F192FB4009833F9 /* trekendeshi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = trekendeshi.jpg; path = ../../trekendeshi.jpg; sourceTree = "<group>"; };
-		E459EC7E1F19405B009833F9 /* back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = back.jpg; path = ../../back.jpg; sourceTree = "<group>"; };
+		E459EC761F192EBC009833F9 /* rrethi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rrethi.jpg; path = images/rrethi.jpg; sourceTree = "<group>"; };
+		E459EC781F192EF9009833F9 /* katrori.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = katrori.jpg; path = images/katrori.jpg; sourceTree = "<group>"; };
+		E459EC7A1F192F3E009833F9 /* drejtkendeshi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = drejtkendeshi.jpg; path = images/drejtkendeshi.jpg; sourceTree = "<group>"; };
+		E459EC7C1F192FB4009833F9 /* trekendeshi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = trekendeshi.jpg; path = images/trekendeshi.jpg; sourceTree = "<group>"; };
+		E459EC7E1F19405B009833F9 /* back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = back.jpg; path = images/back.jpg; sourceTree = "<group>"; };
 		E48A76561F190E1F005C8739 /* Figurat_TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Figurat_TableViewController.h; sourceTree = "<group>"; };
 		E48A76571F190E1F005C8739 /* Figurat_TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Figurat_TableViewController.m; sourceTree = "<group>"; };
 		E48A76591F1917BF005C8739 /* Mbledhja_ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mbledhja_ViewController.h; sourceTree = "<group>"; };
@@ -110,7 +110,7 @@
 				E459EC7A1F192F3E009833F9 /* drejtkendeshi.jpg */,
 				E459EC781F192EF9009833F9 /* katrori.jpg */,
 				E459EC761F192EBC009833F9 /* rrethi.jpg */,
-				E459EC711F1925B2009833F9 /* minus-sign_318-59392.jpg */,
+				E459EC711F1925B2009833F9 /* rrethi.jpg */,
 				E459EC6F1F1923F9009833F9 /* sum.gif */,
 				E459EC6D1F191DA7009833F9 /* photomath.jpg */,
 				E4F558631F181FC100F7D8E4 /* main.m */,
@@ -179,7 +179,7 @@
 			files = (
 				E459EC701F1923F9009833F9 /* sum.gif in Resources */,
 				E459EC771F192EBC009833F9 /* rrethi.jpg in Resources */,
-				E459EC721F1925B2009833F9 /* minus-sign_318-59392.jpg in Resources */,
+				E459EC721F1925B2009833F9 /* rrethi.jpg in Resources */,
 				E459EC6E1F191DA7009833F9 /* photomath.jpg in Resources */,
 				E459EC7D1F192FB4009833F9 /* trekendeshi.jpg in Resources */,
 				E4F558721F181FC100F7D8E4 /* LaunchScreen.storyboard in Resources */,
